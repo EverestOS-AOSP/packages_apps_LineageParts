@@ -53,4 +53,8 @@
     <string name="back_swipe_extended_summary">Trigger action on wider swipe (more than half of display size), or a L swipe (vertically longer enough)</string>
     <string name="action_app_action">Application</string>
 
+    <!-- Sounds: Charging sounds -->
+    <string name="reset_wired_charging_sounds_title">Reset wired charging sound</string>
+    <string name="reset_wireless_charging_sounds_title">Reset wireless charging sound</string>
+
 </resources>
